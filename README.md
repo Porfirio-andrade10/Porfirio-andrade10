@@ -1,5 +1,5 @@
 # Hi there
-My name is porfirio and I´m an embedded systems enthusiast.</br>
+My name is porfirio.</br>
 I´m currently studying Systems Analysis and Development
 
 # 💻 Tech Stack
